@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pixelpark-y9vA.aternos.me:19666",
+    "ip": "pixelpark-y9vA.aternos.me",
     "port": 19666,
     "version": "1.21.11",
     "try-creative": false
